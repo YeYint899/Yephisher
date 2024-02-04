@@ -1,3 +1,10 @@
+<div align="center">
+  <a href="https://github.com/YeYint899">
+    <img src="./Logo.jpg" alt="Logo" >
+  </a>
+  
+
+###Installing
 pkg update && pkg upgrade -y<br>
 pkg install git -y<br>
 git clone https://github.com/YeYint899/Yephisher<br>
@@ -15,7 +22,6 @@ bash Yephisher.sh
 
 It only demonstrates "how phishing works". <b>You shall not misuse the information to gain unauthorized access to someones social media</b>. However you may try out this at your own risk.</i>
 
-##
 
 
 
