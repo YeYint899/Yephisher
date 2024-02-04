@@ -1,10 +1,10 @@
 #!/bin/bash
 
 
-##   69phisher 	: 	Automated Phishing Tool
-##   Author 	: 	Akshay 
+##   Yephisher 	: 	Automated Phishing Tool
+##   Author 	: 	YeYint 
 ##   Version 	: 	1.2
-##   Github 	: 	https://github.com/Akshay-Arjun
+##   Github 	: 	https://github.com/YeYint899
 ## Modified version of :
 ##   Zphisher 	: 	Automated Phishing Tool
 ##   Author 	: 	TAHMID RAYAT 
@@ -73,15 +73,14 @@ kill_pid() {
 banner() {
 	cat <<- EOF
 		
-${ORANGE}   __    ___          _      _       _                 
-${ORANGE}  / /   / _ \        | |    (_)     | |                      
-${ORANGE} / /_  | (_) | _ __  | |__   _  ___ | |__    ___  _ __ 
-${ORANGE}| '_ \  \__, || '_ \ | '_ \ | |/ __|| '_ \  / _ \| '__|		
-${ORANGE}| (_) |   / / | |_) || | | || |\__ \| | | ||  __/| |   	
-${ORANGE} \___/   /_/  | .__/ |_| |_||_||___/|_| |_| \___||_|   
-${ORANGE}              | |                                      
-${ORANGE}              |_|   ${RED}Version : 1.2
-              
+${ORANGE}__   __         _     _     _
+${ORANGE}\ \ / /__ _ __ | |__ (_)___| |__   ___ _ __
+${ORANGE} \ V / _ \ '_ \| '_ \| / __| '_ \ / _ \ '__|
+ ${ORANGE} | |  __/ |_) | | | | \__ \ | | |  __/ |
+${ORANGE}  |_|\___| .__/|_| |_|_|___/_| |_|\___|_| 
+${ORANGE}         | |
+${ORANGE}         |_|  ${RED}Version : 1.2
+
 
 ${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by Akshay-Arjun ${WHITE}
 EOF
@@ -92,7 +91,7 @@ banner_small() {
 	cat <<- "EOF"
 			                     ,,
 			     __            o-°°|\_____/)
-			(___()'`; 69phisher \_/|_)     )
+			(___()'`; Yephisher \_/|_)     )
 			/,    /`               \  __  / 
 			\\"--\\                (_/ (_/  		
 		
