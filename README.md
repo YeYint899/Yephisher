@@ -15,7 +15,7 @@ $ bash Yephisher.sh
 
 
 ### Tutorial Video
-[![asciicast](https://raw.githubusercontent.com/YeYint899/Yephisher/main/tool.jpg)](https://youtu.be/BGwt58opecI?si=LzXWCi_TW63enxb2)
+[![asciicast](https://raw.githubusercontent.com/YeYint899/Yephisher/main/IMG_20240204_193834.jpg)](https://youtu.be/BGwt58opecI?si=LzXWCi_TW63enxb2)
 
 
 ### Disclaimer
